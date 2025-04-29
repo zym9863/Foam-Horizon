@@ -2,11 +2,6 @@
 
 English | [中文](./README.md)
 
-![Foam Horizon](https://img.shields.io/badge/Foam%20Horizon-1.0.0-4361ee)
-![React](https://img.shields.io/badge/React-19.0.0-61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.7.3-3178C6)
-![Vite](https://img.shields.io/badge/Vite-6.3.1-646CFF)
-
 Foam Horizon is an interactive application designed to demonstrate and visualize the formation of filter bubbles. The application simulates how user interactions with content gradually lead to personalized algorithms creating "information bubbles," which limit the diversity of information users are exposed to.
 
 ## Features
