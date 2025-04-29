@@ -2,11 +2,6 @@
 
 [English](./README_EN.md) | 中文
 
-![Foam Horizon](https://img.shields.io/badge/Foam%20Horizon-1.0.0-4361ee)
-![React](https://img.shields.io/badge/React-19.0.0-61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.7.3-3178C6)
-![Vite](https://img.shields.io/badge/Vite-6.3.1-646CFF)
-
 泡沫视界 (Foam Horizon) 是一个交互式应用程序，用于展示和可视化信息茧房（Filter Bubble）的形成过程。该应用程序模拟了用户与内容的互动如何逐渐导致个性化算法创建"信息泡沫"，从而限制了用户接触到的信息多样性。
 
 ## 功能特点
